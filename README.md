@@ -16,51 +16,84 @@ whttp://ooyang.cn/game/contra.htm
 
 ## 《魂斗罗》
 .选关密码 标题画面时 开始 1P Up Left 选择 A（直至选关画面出现） 用Up Down选关 开始 ·
+
 .30次生命密码 （相信谁都会） 标题画面时 1P Up Up Down Down Left Right Left Right B A B A 开始
 
 ## 《魂斗罗2》
 ·30次生命密码（三人版和五人版可用） 标题画面时 1P Right Left Down Up A B 开始
+
 ·100次生命密码（20人版可用） 标题画面时 1P Up Up Down Down Left Right Left Right B A 开始
+
 ·7种音乐密码（三人版可用） 1P AB（按住不放） 开始 用方向键选择音乐（B试听，A停止）
+
 ·选关密码（5人版可用） 标题画面时 1P A B B A A ——2关 1P A B B A A A——3关 1P A B B A A A A——4关 1P A B B A A A A A——5关 1P A B B A A A A A A——6关 1P A B B A A A A A A A——7关 1P A B B A A A A A A A A——8关 如上述密码不行则是5人版版本原因，再试下种 1P A A A B B——2关 1P A A A A B B——3关 1P A A A A A B B——4关 1P A A A A A A B B——5关 1P A A A A A A A B B——6关 1P A A A A A A A A B B——7关 1P A A A A A A A A A B B——8关
+
 .选关密码（20人版可用） 标题画面时 Down（按住不放） 1P B——2关 1P B B——3关 1P B B B——4关 1P B B B B——5关 1P B B B B B——6关 1P B B B B B B——7关 1P B B B B B B B——8关 以上所有密码输完后，按开始键进入游戏。
+
 .选关密码（3人版可用） 标题画面时 选择（不放手） 开始 （用Up Down选定） ·变身密码（3人版可用） 标题画面时 Right Left Down Up A B（30次生命） 把游戏打穿一边看完结局 Up Up Down Down Left Right Left Right B A 开始 （主角变身柯拉米男女超人）
 
 ## 《空中魂斗罗》
 ·10次生命密码 标题画面时 2P AB（按住不放） 1P 开始 （双人玩时1P先按选择键再按开始）
+
 ·选关密码 标题画面时 2P AB（按住不放）&1P A开始——2关 2P AB（按住不放）&1P B开始——3关 2P AB（按住不放）&1P Left开始——4关 2P AB（按住不放）&1P Right开始——5关
 
 ## 《赤影战士》
 ·选关（音乐测试、续关）密码
+
 1P A A A A B B B B A B A B A B A B（听到一声响），然后：
+
 2P B（不放手）——1-2
+
 2P A（不放手）——1-3
+
 2P AB（不放手）——1-4
+
 1P B（不放手）——2-1
+
 1P B&2P B（不放手）——2-2
+
 1P B&2P A（不放手）——2-3
+
 1P B&2P AB（不放手）——3-1
+
 ？——3-2
+
 1P A&2P B——3-3
+
 1P A&2P A——4-1
+
 1P A&2P AB——4-2
+
 ？——4-3
+
 1P AB&2P B——5-1
+
 1P AB&2P A——5-2
+
 1P AB&2P AB——音乐测试
+
 1P Up&2P Down——续关9次
 
 ## 《沙罗曼蛇》
+
 ·30次生命密码 标题画面时 1P Up Up Down Down Left Right Left Right B A B A
+
 ·99次生命密码 标题画面时 1P A&2P B（不放手） 选择2人玩 开始 使1P丧失两条生命，2P丧失1条生命，让后将1P、2P的飞机紧贴画面右上角重合，被撞毁后即可
+
 ·续关密码 游戏结束后（画面出现GAME OVER） Up Down B A B A B A B A （画面出现敌机表示成功）
+
 ·增强威力密码 游戏进行中 暂停 Up Up Down Down Left Right Left Right B A
 
 ## 《沙罗曼蛇2代》
+
 ·30次生命密码 同一代 ·255次生命密码 1P生命自杀到00，2P自杀到01，两机重合到画面右上角，1P用连发键射击，直至两机被撞毁 （画面显示有99次生命，实际为255次）
+
 ·47中音乐密码 标题画面时 1P AB（按住不放） 开始
+
 ·续关密码 同一代
+
 ·增强威力密码 同一代（可迅速装备2个导弹）
+
 ·无限加分密码 首脑出现前先获得4个火球，当摩艾画面的最后首脑出现时，不要将其打倒 迅速连接AB（保持一段时间）（我没看懂什么意思） 注：2代也可借生命，方法同一代
 
 ## 《沙罗曼蛇3代》
