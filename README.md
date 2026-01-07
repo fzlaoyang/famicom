@@ -11,7 +11,7 @@
 # 如何玩 
 
 第一步:下载`.nes`文件
-第二部:浏览我们的模拟器地址[红白机模拟器网页版](https://raw.githubusercontent.com/fzlaoyang/famicom/main/images/fc.jpg)
+第二部:浏览我们的模拟器地址[红白机模拟器网页版](http://ooyang.cn/game/contra.htm)
 第三步:选择rom  即可
 
 ## 《魂斗罗》
